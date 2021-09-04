@@ -1,3 +1,5 @@
-# portfolio_website
+# React Portfolio website
 
-This wil going to be a demo portfolio website , built using react.js, HTML, CSS. 
+Designed by - [shaif Arfan](http://github.com/shaifarfan) | [web cifar](http://webcifar.com)
+
+![](./ReadMeImages/ReadMeBanner.png)
